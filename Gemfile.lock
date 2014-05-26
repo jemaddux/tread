@@ -20,6 +20,7 @@ PLATFORMS
 
 DEPENDENCIES
   ProMotion (~> 1.1.2)
+  bubble-wrap
   motion_model
   rake
   sugarcube
